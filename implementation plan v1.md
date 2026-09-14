@@ -237,6 +237,8 @@ Monitor failed saves, provider failures, eligible pool size, image-render failur
 
 ## 9. Milestones, dependencies, and acceptance
 
+**Session execution breakdown:** [33 self-deliverable checkpoints](docs/superpowers/plans/2026-09-09-anicup-checkpoints/README.md) split these milestones into bounded work packets with dependencies, acceptance proofs, handoffs, and a below-40% session-context policy. This delivery breakdown preserves the product rules and release gates below; C01 and C02 are complete, with evidence and remaining gates in the [checkpoint status](docs/superpowers/plans/2026-09-09-anicup-checkpoints/STATUS.md).
+
 Estimates are **focused engineering days for one experienced maintainer**, not elapsed dates or evidence that an AI can complete them instantly. External provider clarification, account/domain setup, recruitment, and the four-week pilot add calendar time. No extra engineers or volunteers are assumed.
 
 | Milestone | Dependencies | Estimate | Reviewable output |
